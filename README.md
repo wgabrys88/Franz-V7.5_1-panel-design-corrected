@@ -17,7 +17,6 @@ So: agents annotate images primarily for VLM consumption. The second annotation 
 
 Here is the comprehensive README.md:
 
-````markdown
 # FranzAi-Plumbing
 
 A multi-agent visual AI system where autonomous brain agents capture screen regions, annotate images with overlays, send them to a Vision-Language Model (VLM) for analysis, and execute actions on Windows based on VLM decisions. The panel server orchestrates all communication while automatically intercepting data flows to provide a real-time debugging UI with zero brain-side UI code.
@@ -429,4 +428,3 @@ CURRENT KNOWN ISSUES TO TRACK:
 ---
 
 *Generated from analysis of the complete FranzAi-Plumbing codebase. Last updated after communication architecture redesign session.*
-````
